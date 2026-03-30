@@ -1,5 +1,5 @@
 # Company HQ & Business Summary (Streamlit)
-
+[🔗 Live App Demo](https://ai-lead-researcher-dzc8kxknj7wfcuqpfk7fe3.streamlit.app/)
 Search any company and get:
 - **Business summary** (from Wikipedia)
 - **Headquarters (today)** (best-effort from Wikidata HQ statements + time qualifiers when available)
